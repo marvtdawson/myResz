@@ -1,0 +1,7 @@
+{
+  "name": "myResz",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
